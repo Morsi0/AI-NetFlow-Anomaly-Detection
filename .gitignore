@@ -1,6 +1,4 @@
 *.pcap
-*.csv
-*.pth
 *.pt
 *.h5
 *.log
