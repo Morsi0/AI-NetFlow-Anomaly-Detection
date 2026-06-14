@@ -228,14 +228,11 @@ demo/demo.mp4
 ```text
 AI-NetFlow-Anomaly-Detection
 │
-├── notebooks/
 ├── deployment/
-├── datasets/
+├── model/
 ├── screenshots/
 ├── demo/
 ├── docs/
-├── model.pth
-├── scaler.pkl
 └── README.md
 ```
 
