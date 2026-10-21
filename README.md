@@ -16,6 +16,11 @@ The solution combines:
 The system was developed as part of an engineering project at Sup'Com.
 
 ---
+## Demo
+
+The video demonstration showcases the system in action. We first capture normal network traffic, then simulate a DNS exfiltration attack to observe how the AI model detects the anomaly and how the resulting alerts are displayed on the Wazuh dashboard.
+
+▶️ **Watch the video demonstration:** [View Demo](https://drive.google.com/file/d/1A-YW2hZVCzincTeXbXw6PByE6gwdB36E/view?usp=sharing)
 
 ## System Architecture
 
