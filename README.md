@@ -218,15 +218,6 @@ The model achieved:
 
 ---
 
-## Demonstration Video
-
-A complete demonstration of the system is available in:
-
-```text
-demo/demo.mp4
-```
-
----
 
 ## Repository Structure
 
